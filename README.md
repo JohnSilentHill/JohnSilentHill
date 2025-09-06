@@ -4,7 +4,7 @@
 
 Tragically, my course requires me to be able to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a shaky linux distro to handle my day-to-day schoolwork.
 
-### Why?
+### "Why ever not? Arch is the best distro 🤓☝️"
 
 - I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks.
 - Compatability with Adobe products is next to zero. (I study media)
