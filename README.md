@@ -2,7 +2,7 @@
 
 ### I decided to work on Arch Linux for my laptop in my spare time.
 
-Yet tragically, my course requires me to be able to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a poorly configured Linux OS for my day-to-day work.
+Yet tragically, my course requires me to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a poorly configured Linux OS for my day-to-day work.
 
 ### "Why ever not? Arch is the best distro 🤓☝️"
 
