@@ -12,8 +12,8 @@ Tragically, my course requires me to be able to use all these windows/mac orient
 - I cannot be bothered trying to fix my audio drivers half way through a lecture.
 
 
-
-### I've had a try at Lua and Html but they suck so I'm trying Python instead.
+### Instead, I'm learning python.
+I've had a try at Lua and Html but they suck.
 
 
 
