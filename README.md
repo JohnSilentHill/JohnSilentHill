@@ -13,7 +13,7 @@ Yet tragically, my course requires me to use all these windows/mac oriented prog
 
 
 ### Instead, I'm learning Python.
-I've had a try at Lua and Html but they suck and I will not be trying assembly you freaks.
+I've had a try at Lua and Html in the past but they suck (and I will not be trying assembly you freaks.)
 
 
 
