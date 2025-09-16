@@ -16,7 +16,9 @@ Well, not for me anyway since I need to dualboot since Windows & Adobe products 
 
 I've had a try at Lua and Html in the past but they suck (and I will not be trying assembly you freaks.)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsilenthill)](https://github.com/anuraghazra/github-readme-stats)
+# Socials
+
+
 
 
 
