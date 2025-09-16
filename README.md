@@ -13,6 +13,7 @@ Yet tragically, my course requires me to use all these windows/mac oriented prog
 Well, not for me anyway since I need to dualboot since Windows & Adobe products are required on my university course. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
 
 **Instead, I'm learning Python.**
+
 I've had a try at Lua and Html in the past but they suck (and I will not be trying assembly you freaks.)
 
 
