@@ -19,10 +19,7 @@ I've had a try at Lua and Html in the past but they suck (and I will not be tryi
 # Socials
 
 
-<img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/34321acc-f636-4dcf-9649-2b077182dba3" /> [t.col1]([url](https://www.instagram.com/t.col1/)) 
-<img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/ec924b9a-b03b-4e2b-80b8-94dfb8b17ce2" /> 
-<img width="24" height="24" alt="discord" src="https://github.com/user-attachments/assets/5c0a8c28-582f-4b58-84ab-fff4c8ba9590" />
-
+[<img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/34321acc-f636-4dcf-9649-2b077182dba3" />](https://www.instagram.com/t.col1/)
 
 
 
