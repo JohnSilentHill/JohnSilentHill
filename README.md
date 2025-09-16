@@ -1,7 +1,7 @@
 
 <img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
 
-## Info
+# Info
 
 ### **At first, I decided to work on Arch Linux for my laptop in my spare time.**
 
