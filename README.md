@@ -18,6 +18,8 @@ I've had a try at Lua and Html in the past but they suck (and I will not be tryi
 
 # Socials
 
+[instagram.svg](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg)
+
 
 
 
