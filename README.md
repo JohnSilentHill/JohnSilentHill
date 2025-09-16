@@ -9,10 +9,12 @@ Yet tragically, my course requires me to use all these windows/mac oriented prog
 No it's not. 
 Well, not for me anyway. Here's why:
 
-1. I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks.
-2. Compatability with Adobe products is next to zero. (I study media)
-3. The partition I created can't even be used and instead it would overwrite my entire SSD.
-4. I cannot be bothered trying to fix my audio drivers half way through a lecture.
+```
+I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks.
+Compatability with Adobe products is next to zero. (I study media)
+The partition I created can't even be used and instead it would overwrite my entire SSD.
+I cannot be bothered trying to fix my audio drivers half way through a lecture.
+```
 
 
 ### Instead, I'm learning Python.
