@@ -1,4 +1,4 @@
-![instagram](https://github.com/user-attachments/assets/8be1f227-c237-4e1c-b544-a21e68060d2b)
+
 <img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
 
 # Info
