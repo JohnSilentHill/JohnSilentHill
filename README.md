@@ -5,7 +5,7 @@
 
 Yet tragically, my course requires me to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a poorly configured Linux OS for my day-to-day work.
 
-### "Why ever not? Arch is the best distro 🤓☝️"
+## "But Arch is the best distro 🤓☝️"
 
 - I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks.
 - Compatability with Adobe products is next to zero. (I study media)
