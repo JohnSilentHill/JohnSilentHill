@@ -1,5 +1,5 @@
 
-<img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/8629be46-9aa7-41d4-a92b-9995b7fdb64d" />
+<img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
 
 ### I decided to work on Arch Linux for my laptop in my spare time.
 
