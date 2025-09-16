@@ -1,7 +1,7 @@
 
 <img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
 
-### First, I decided to work on Arch Linux for my laptop in my spare time.
+### `First, I decided to work on Arch Linux for my laptop in my spare time.`
 
 Yet tragically, my course requires me to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a poorly configured Linux OS for my day-to-day work.
 
@@ -14,7 +14,7 @@ No it's not. Well, not for me anyway. Here's why:
 - I cannot be bothered trying to fix my audio drivers half way through a lecture.
 
 
-### Instead, I'm learning Python.
+### `Instead, I'm learning Python.`
 I've had a try at Lua and Html in the past but they suck (and I will not be trying assembly you freaks.)
 
 
