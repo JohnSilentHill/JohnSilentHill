@@ -14,7 +14,7 @@ Well, not for me anyway since I need to dualboot since Windows & Adobe products 
 ### **Instead, I'm learning Python.**
 I've had a try at Lua and Html in the past but they suck (and I will not be trying assembly you freaks.)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsilenthill)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JohnSilentHill/johnsilenthill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
