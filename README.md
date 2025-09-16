@@ -7,7 +7,6 @@ Yet tragically, my course requires me to use all these windows/mac oriented prog
 
 ### "But Arch is the best distro 🤓☝️"
 No it's not. 
-
 Well, not for me anyway. Here's why:
 
 - I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks.
