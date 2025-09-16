@@ -7,6 +7,7 @@ Yet tragically, my course requires me to use all these windows/mac oriented prog
 
 ### "But Arch is the best distro 🤓☝️"
 No it's not. 
+
 Well, not for me anyway since I need to dualboot since Windows & Adobe products are required on my university course. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
 
 
