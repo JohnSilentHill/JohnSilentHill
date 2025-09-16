@@ -1,4 +1,4 @@
-# Hello
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/81f86965-f044-464e-ab89-b84eca1aedcb" />
 
 ### I decided to work on Arch Linux for my laptop in my spare time.
 
