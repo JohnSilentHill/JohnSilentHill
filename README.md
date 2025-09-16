@@ -10,8 +10,10 @@ No it's not.
 Well, not for me anyway. Here's why:
 
 ```
-I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks. Also the compatability with Adobe products is next to zero. (I study media so I NEED to use these)
-Also the partition I created can't even be used as it would overwrite my entire SSD, containing all the important shit that's on there. And frankly, I cannot be bothered trying to fix my audio drivers half way through a lecture.
+I want to dualboot, and doing so requires I turn off hibernate and fastboot - which stinks. Also the compatability with Adobe
+products is next to zero. (I study media so I NEED to use these) Also the partition I created can't even be used as it would
+overwrite my entire SSD, containing all the important shit that's on there. And frankly, I cannot be bothered trying to fix
+my audio drivers half way through a lecture.
 ```
 
 
