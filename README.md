@@ -1,4 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/81f86965-f044-464e-ab89-b84eca1aedcb" />
+
+<img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/8629be46-9aa7-41d4-a92b-9995b7fdb64d" />
 
 ### I decided to work on Arch Linux for my laptop in my spare time.
 
