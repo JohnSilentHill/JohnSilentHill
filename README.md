@@ -3,9 +3,7 @@
 
 # About Me
 
-### 19
-
-### University of Warwick
+### 18 @  University of Warwick
 
 ------
 
