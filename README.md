@@ -14,7 +14,7 @@ I may branch out to C# or Javascript in the future, but for now I'm trying to wr
 
 ------
 ## Languages:
-![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-57635A?style=for-the-badge&logo=lua&logoColor=white)
 
 ------
 
