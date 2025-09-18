@@ -15,7 +15,7 @@ I figured Arch is probably not for me since I need to dualboot - which would req
 
 **Instead, I'm learning Python.**
 
-I've had a try at Lua and Html in the past but none stuck. And I may in future branch out to C, Javascript, or 
+I've had a try at Lua and Html in the past but none stuck. And I may in future branch out to C# or Javascript.
 
 # Socials
 
