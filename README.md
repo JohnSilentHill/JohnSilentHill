@@ -1,7 +1,7 @@
 
 <img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
 
-# About Me
+## About Me
 ------
 
 This account was originally made to document my progress with an installation of Arch Linux on my laptop (and finding repositories for programs I could use on it.)
@@ -13,16 +13,12 @@ I figured Arch is probably not for me since I need to dualboot - which would req
 I may branch out to C# or Javascript in the future, but for now I'm trying to wrap my head around one language at a time.
 
 ------
-# Past Experience
--> Frontend game design and level building with a basic Lua backend
-
--> Python (ongoing)
-
--> HTML website building as school coursework
+## Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ------
 
-# Socials
+## Socials
 
 [<img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/1564afea-4ce1-4f7e-8577-90cd052950b4" />](https://www.linkedin.com/???)
 [<img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/34321acc-f636-4dcf-9649-2b077182dba3" />](https://www.instagram.com/t.col1/)
