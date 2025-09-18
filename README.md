@@ -7,9 +7,11 @@
 
 University of Warwick
 
-Yet tragically, my course requires me to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a poorly configured Linux OS for my day-to-day work.
+------
 
-Arch is probably not for me anyway since I need to dualboot - which would require me turning off fastboot and hibernate. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
+This account was originally made to document my progress with an installation of Arch Linux on my laptop (and finding repositories for programs I could use on it.)
+
+I figured Arch is probably not for me since I need to dualboot - which would require me turning off fastboot and hibernate. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
 
 **Instead, I'm learning Python.**
 
