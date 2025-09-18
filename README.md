@@ -12,6 +12,8 @@ I figured Arch is probably not for me since I need to dualboot - which would req
 
 I've had a try at Lua and Html in the past but none stuck. And I may in future branch out to C# or Javascript.
 
+------
+
 # Socials
 
 [<img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/1564afea-4ce1-4f7e-8577-90cd052950b4" />](https://www.linkedin.com/???)
