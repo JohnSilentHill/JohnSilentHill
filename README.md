@@ -6,7 +6,7 @@
 
 This account was originally made to document my progress with an installation of Arch Linux on my laptop (and finding repositories for programs I could use on it.)
 
-I figured Arch is probably not for me since I need to dualboot - which would require me turning off fastboot and hibernate. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
+I figured Arch is probably not for me since I need to dualboot - which would require me turning off fastboot and hibernate. Also, I'd really hate for something to break when I'm in a lecture or doing school work.
 
 **Instead, I'm learning Python.**
 
