@@ -10,7 +10,7 @@ I figured Arch is probably not for me since I need to dualboot - which would req
 
 **Instead, I'm learning Python.**
 
-I may branch out to CSS or Javascript for web development in the future, but for now I'm trying to wrap my head around one language at a time.
+I may branch out to CSS/Javascript for web development or C# for UIs and apps, but for now I'm trying to wrap my head around one language at a time.
 
 ------
 ### Languages:
