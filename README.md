@@ -14,9 +14,11 @@ I may branch out to C# or Javascript in the future, but for now I'm trying to wr
 
 ------
 # Past Experience
-- Frontend game design and level building with a basic Lua backend
-- Python (ongoing)
-- HTML website building as school coursework
+-> Frontend game design and level building with a basic Lua backend
+
+-> Python (ongoing)
+
+-> HTML website building as school coursework
 
 ------
 
