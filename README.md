@@ -1,5 +1,5 @@
 
-<img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
+<img width="1700" height="240" alt="github-header-banner" src="https://github.com/user-attachments/assets/146918cc-03da-4b89-b48e-25f15e069cef" />
 
 ## About Me
 ------
