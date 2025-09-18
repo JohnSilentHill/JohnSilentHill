@@ -2,9 +2,6 @@
 <img width="1700" height="240" alt="profilebanner" src="https://github.com/user-attachments/assets/4f62a31a-2036-4759-bd5c-474bed73d653" />
 
 # About Me
-
-### 18 --  University of Warwick
-
 ------
 
 This account was originally made to document my progress with an installation of Arch Linux on my laptop (and finding repositories for programs I could use on it.)
