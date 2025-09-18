@@ -13,12 +13,12 @@ I figured Arch is probably not for me since I need to dualboot - which would req
 I may branch out to C# or Javascript in the future, but for now I'm trying to wrap my head around one language at a time.
 
 ------
-## Languages:
+### Languages:
 ![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-57635A?style=for-the-badge&logo=lua&logoColor=white)
 
 ------
 
-## Socials
+### Socials
 
 [<img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/1564afea-4ce1-4f7e-8577-90cd052950b4" />](https://www.linkedin.com/???)
 [<img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/34321acc-f636-4dcf-9649-2b077182dba3" />](https://www.instagram.com/t.col1/)
