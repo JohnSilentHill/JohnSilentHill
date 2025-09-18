@@ -23,8 +23,7 @@ I may branch out to C# or Javascript in the future, but for now I'm trying to wr
 
 ### Socials
 
-[<img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/1564afea-4ce1-4f7e-8577-90cd052950b4" />](https://www.linkedin.com/???)
-[<img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/34321acc-f636-4dcf-9649-2b077182dba3" />](https://www.instagram.com/t.col1/)
+[<img width="24" height="24" alt="linkedin" src="https://github.com/user-attachments/assets/1564afea-4ce1-4f7e-8577-90cd052950b4" />](https://www.linkedin.com/???)  [<img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/34321acc-f636-4dcf-9649-2b077182dba3" />](https://www.instagram.com/t.col1/)
 
 ------
 
