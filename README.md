@@ -7,10 +7,7 @@
 
 Yet tragically, my course requires me to use all these windows/mac oriented programs, and so I unfortunately cannot really rely on a poorly configured Linux OS for my day-to-day work.
 
-**"But Arch is the best distro 🤓☝️"**
-**No it's not.**
-
-Well, not for me anyway since I need to dualboot since Windows & Adobe products are required on my university course. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
+Arch is probably not for me anyway since I need to dualboot - which would require me turning off fastboot and hibernate. Also, I'd really hate for something to break (such as an audio driver) half way through something important.
 
 **Instead, I'm learning Python.**
 
