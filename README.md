@@ -21,7 +21,7 @@ I may branch out to CSS/Javascript for web development or C# for UIs and apps, b
 
 ------
 
-[![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&title_color=57635A&text_color=white&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&title_color=ffffff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
