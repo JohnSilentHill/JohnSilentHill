@@ -13,16 +13,12 @@ I figured Arch is probably not for me since I need to dualboot - which would req
 I may branch out to CSS/Javascript for web development or C# for UIs and apps, but for now I'm trying to wrap my head around one language at a time.
 
 ------
-### Languages:
-![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-57635A?style=for-the-badge&logo=lua&logoColor=white)
+### Languages:                  ### Tools:
+
+![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-57635A?style=for-the-badge&logo=lua&logoColor=white)      ![GitHub](https://img.shields.io/badge/github-57635A?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-57635A?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-57635A?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-57635A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-### Tools:
-![GitHub](https://img.shields.io/badge/github-57635A?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-57635A?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-57635A?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-57635A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-------
 
 <!--
 **JohnSilentHill/johnsilenthill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
