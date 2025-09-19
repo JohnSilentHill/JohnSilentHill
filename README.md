@@ -26,7 +26,7 @@ N/A
 
 ------
 
-[![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
