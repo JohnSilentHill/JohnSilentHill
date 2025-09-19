@@ -5,12 +5,9 @@
 ------
 
 This account was originally made to document my progress with an installation of Arch Linux on my laptop (and finding repositories for programs I could use on it.)
+But since this isn't possible for many reasons, I'm instead learning Python, and frontend web development.
 
-I figured Arch is probably not for me since I need to dualboot - which would require me turning off fastboot and hibernate. Also, I'd really hate for something to break when I'm in a lecture or doing school work.
-
-**Instead, I'm learning Python.**
-
-I may branch out to CSS/Javascript for web development or C# for UIs and apps, but for now I'm trying to wrap my head around one language at a time.
+I may branch out to C# for UIs and apps, but for now I'm just trying to wrap my head around these two aspects.
 
 ------
 ### Languages:
