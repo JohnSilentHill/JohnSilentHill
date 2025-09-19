@@ -22,8 +22,7 @@ I may branch out to CSS/Javascript for web development or C# for UIs and apps, b
 ------
 
 ### Socials
-<img width="24" height="24" alt="linkedin_green" src="https://github.com/user-attachments/assets/334475ee-9001-4415-9917-1f477dac32f5" /> 
-<img width="24" height="24" alt="instagram_green" src="https://github.com/user-attachments/assets/5c9b1172-64e7-4a00-889c-409b3a12e019" /> 
+N/A
 
 ------
 
