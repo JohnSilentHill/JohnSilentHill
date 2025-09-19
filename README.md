@@ -28,7 +28,7 @@ I may branch out to CSS/Javascript for web development or C# for UIs and apps, b
 </a>
 
 <a>
-  <img height=200 align="center" src="![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-57635A?style=for-the-badge&logo=lua&logoColor=white)" /> 
+  <img align="center" src="![Python](https://img.shields.io/badge/python-57635A?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-57635A?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-57635A?style=for-the-badge&logo=lua&logoColor=white)" /> 
 </a>
 
 <!--
