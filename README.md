@@ -21,8 +21,7 @@ I may branch out to CSS/Javascript for web development or C# for UIs and apps, b
 
 ![GitHub](https://img.shields.io/badge/github-57635A?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-57635A?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-57635A?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-57635A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true)]
-
+[![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">
   text
