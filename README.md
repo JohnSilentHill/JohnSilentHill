@@ -23,12 +23,7 @@ I may branch out to CSS/Javascript for web development or C# for UIs and apps, b
 
 [![Top Langs](https://github-readme-stats-omega-three-53.vercel.app/api/top-langs/?username=johnsilenthill&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right">
-  text
-</p>
-<p align="left">
-  text
-</p>
+<p align="center"><a href="www.Sololearn.com>link</a></p>
 
 
 <!--
