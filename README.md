@@ -27,12 +27,6 @@ I may branch out to CSS/Javascript for web development or C# for UIs and apps, b
   <img height=200 align="center" src="https://github-readme-stats-omega-three-53.vercel.app/api/top-langs?username=johnsilenthill&layout=compact&langs_count=8&card_width=320&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
 <!--
 **JohnSilentHill/johnsilenthill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
