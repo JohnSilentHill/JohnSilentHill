@@ -16,7 +16,7 @@ I may branch out to C# for UIs and apps, but for now I'm just trying to wrap my 
 
 ### Tools:
 
-![GitHub](https://img.shields.io/badge/github-57635A?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-57635A?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-57635A?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-57635A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-57635A?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-57635A?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-57635A?style=for-the-badge&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-57635A?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-57635A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-57635A?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-57635A?style=for-the-badge&logo=css3&logoColor=white)
 
 ------
 
