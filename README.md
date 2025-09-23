@@ -5,7 +5,7 @@
 ------
 
 This account was originally made to document my progress with an installation of Arch Linux on my laptop (and finding repositories for programs I could use on it.)
-But since this isn't possible for many reasons, I'm instead learning Python, and HTML / CSS for frontend web development.
+But since this isn't possible for many reasons, I'm instead learning Python and HTML / CSS for frontend web development.
 
 I may branch out to C# for UIs and apps, but for now I'm just trying to wrap my head around these two aspects.
 
